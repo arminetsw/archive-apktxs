@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arminetsw.github.io/archive-apktxs/sitemap.xml
